@@ -12,10 +12,10 @@ ML Tlachac, Miranda Reisch, Michael Heinz, “Mobile Communication Log Time Seri
   organization={IEEE}
 }
 
+Cite the above paper if code is used. 
+
 The features are available at *https://github.com/mltlachac/IEEEBHI2021/tree/main/TimeSeriesData/TSFELFeatures*
 
 We modified code from *https://github.com/mltlachac/UbiComp2022*
-
-Updates to this repository are pending.
 
 This paper is part of the Emutivo project. For more information, visit *https://emutivo.wpi.edu/*
